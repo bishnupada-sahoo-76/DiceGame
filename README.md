@@ -9,4 +9,4 @@ I used HTML/CSS & JavaScript to develop this website.
 - JavaScript
   
 ---
-Hosted the website on https://bishnupada-sahoo-76.github.io/DiceGame/
+
