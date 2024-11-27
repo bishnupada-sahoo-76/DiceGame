@@ -7,4 +7,6 @@ I used HTML/CSS & JavaScript to develop this website.
 - HTML
 - CSS
 - JavaScript
+  
 ---
+Hosted the website on 
