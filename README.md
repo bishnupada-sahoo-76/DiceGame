@@ -5,7 +5,6 @@
 # Technology Used
 - HTML
 - CSS
-- JavaScript
-  
+- JavaScript  
 ---
 
